@@ -2,6 +2,8 @@
 # Servidor Apache com aplicação Flask
 Configuração de um servidor Amazon Lightsail para fazer deploy de uma aplicação Flask com Apache e WSGI
 
+**Observação:** _Os links e endereços de IP referentes ao servidor não estão mais disponíveis._
+
 ## Resumo do servidor
 - O servidor se encontra no IP http://54.226.128.222/
 - A conexão SSH é feita através da porta 2200
